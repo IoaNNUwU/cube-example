@@ -1,5 +1,6 @@
 ## example rust project
 Shows project structure with different modules and crates depending on each other.
+
 Modules:
 - client_crates
 - server_crates
